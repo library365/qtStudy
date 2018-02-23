@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\jhlim\Documents\QtProject\MyClient\android-build\libs\QtAndroidBearer-bundled.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9ab1f1638d6cb26066cb7a1313a439bb7d21db24">
+        <dex dex="C:\Users\jhlim\Documents\QtProject\MyClient\android-build\build\intermediates\pre-dexed\debug\QtAndroidBearer-bundled_ebd1496d711b8893fafb6fa3f3108f88ed1a2402.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jhlim\Documents\QtProject\MyClient\android-build\libs\QtAndroid-bundled.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="39c89e9accbc6964314590d25dd7ef16d6278da7">
+        <dex dex="C:\Users\jhlim\Documents\QtProject\MyClient\android-build\build\intermediates\pre-dexed\debug\QtAndroid-bundled_50eba9622a1a0375762a1b55ba29f5dd31ed89d6.jar" />
+    </item>
+
+</items>

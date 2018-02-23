@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\jhlim\Documents\QtProject\wifi_comm\android-build\libs\QtAndroid-bundled.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="39c89e9accbc6964314590d25dd7ef16d6278da7">
+        <dex dex="C:\Users\jhlim\Documents\QtProject\wifi_comm\android-build\build\intermediates\pre-dexed\debug\QtAndroid-bundled_f342df388e70cf4f63dec3fc4fe1a7aec5e58a51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jhlim\Documents\QtProject\wifi_comm\android-build\libs\QtAndroidBearer-bundled.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9ab1f1638d6cb26066cb7a1313a439bb7d21db24">
+        <dex dex="C:\Users\jhlim\Documents\QtProject\wifi_comm\android-build\build\intermediates\pre-dexed\debug\QtAndroidBearer-bundled_ce262797de2849ba1de9f7df2fc8969d764140f1.jar" />
+    </item>
+
+</items>
